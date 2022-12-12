@@ -1,3 +1,5 @@
 # Mohamed_Portfolio
-Basic responsive website using Html5 &amp; Css3 as my portfolio.
-
+Basic responsive website as my portfolio.
+## Skills
+- HTML5
+- CSS3
